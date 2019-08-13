@@ -12,7 +12,7 @@
 ## Instalação
 
 ```sh     
-    $ git clone https://gitlab.ifrr.edu.br/2265803/alfresco.git
+    $ git clone https://github.com/akirax28/alfresco.git
     $ cd alfresco
     $ docker stack deploy -c docker-compose.yml alfresco
 ```
